@@ -1,0 +1,18 @@
+# virtual environment
+venv/
+__pycache__/
+
+# embeddings (katta fayllar)
+*.bin
+*.bin.gz
+
+# logs & results
+logs/
+results/
+
+# python
+*.pyc
+
+# system
+.DS_Store
+Thumbs.db
